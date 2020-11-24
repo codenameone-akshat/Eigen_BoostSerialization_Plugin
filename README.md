@@ -3,7 +3,7 @@ Boost Serialization of Eigen Dense and Sparse Matrix.
 This is just a fork of [mtao/eigen_boost_serialization gist] with loss of data error fixed.
 
 # Dependencies
-- Boost must be set in the include directories and the file includes the file like
+Boost must be set in the include directories and the file includes the file like  
 `#include <boost/serialization/vector.hpp>`
 
 # Usage
