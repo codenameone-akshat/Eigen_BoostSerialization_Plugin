@@ -1,6 +1,6 @@
 # Eigen_BoostSerialization_Plugin
 Boost Serialization of Eigen Dense and Sparse Matrix.
-This is just a fork of [mtao/eigen_boost_serialization gist] with loss of data error fixed.
+This is just a fork of [mtao/eigen_boost_serialization gist] with loss of data warning fixed.
 
 # Dependencies
 Boost must be set in the include directories and the file includes the file like  
